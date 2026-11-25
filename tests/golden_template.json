@@ -1,0 +1,6 @@
+{
+  "_help": "Copy to tests/golden.json. For each seed company, read 5-8 numbers straight from the PDF and write them here. Keys must match the company name shown in the app. Values are plain numbers in the document's own unit.",
+  "Infosys": {
+    "FY2024": {"Revenue": 153670, "Net Profit": 26248, "Total Assets": 0}
+  }
+}
