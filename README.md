@@ -47,4 +47,4 @@ For an extraction-accuracy score, copy `tests/golden_template.json` to `tests/go
 5-8 numbers per company read from the PDFs, and re-run `e2e_check.py`.
 
 Limitations: scanned (image-only) PDFs are not supported (no OCR); free-tier Gemini limits make
-big documents slow; absolute figures across companies may use different units/currencies.
+big documents slow; absolute figures across companies may use different units.
